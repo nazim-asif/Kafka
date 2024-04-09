@@ -2,9 +2,10 @@
 
 Here i covered some topics,
 
-- Kafka producer
-- Kafka Consumer
-- Integration test with test container
+- **Kafka producer**
+- **Kafka Consumer**
+- **Integration test with test container**
+- **Implement DLT (Dead Letter Queue)**
 
 Some command for *Kafka Producer* ,
 
